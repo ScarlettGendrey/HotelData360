@@ -13,10 +13,10 @@ The end goal is to use this database for exploratory data analysis (EDA) and mor
 - Apply data modeling techniques for predictive insights.
 
 ## Technologies Used
-- SQL Database (e.g., MySQL, PostgreSQL)
-- Data Generation Tools (e.g., Mockaroo, Python scripts)
-- Data Analysis Tools (e.g., Python with Pandas, Jupyter Notebooks)
-- Data Visualization Tools (e.g., Power BI, Tableau)
+- SQL Database (MySQL)
+- Data Generation Tools (Mockaroo, Python)
+- Data Analysis Tools (Python)
+- Data Visualization Tools (Python, Power BI)
 
 ## Database Schema
 The database includes the following tables:
